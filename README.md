@@ -14,8 +14,6 @@ Configuration pros for creating ci/cd pipeline on aws.
     ]
 }
 
-
-
 [
     {
         "AllowedHeaders": [
